@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Die Dokumentablage/1.0.0": {
+        "runtime": {
+          "Die Dokumentablage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Die Dokumentablage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
